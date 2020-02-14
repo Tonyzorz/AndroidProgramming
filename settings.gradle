@@ -1,0 +1,2 @@
+include ':app', ':geoquiz', ':calculatorfeb03'
+rootProject.name='My Application'
