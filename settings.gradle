@@ -1,2 +1,2 @@
-include ':app', ':geoquiz', ':calculatorfeb03'
+include ':app', ':geoquiz', ':calculatorfeb03', ':app', ':crimeactivity'
 rootProject.name='My Application'
